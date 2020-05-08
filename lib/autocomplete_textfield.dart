@@ -1,4 +1,3 @@
-// Abbas
 library autocomplete_textfield;
 
 import 'package:flutter/material.dart';
